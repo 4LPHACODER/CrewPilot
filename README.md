@@ -1,6 +1,6 @@
-# ConStructo - Worker Tracker Management System
+# CrewPilot - Developer Tracker Management System
 
-A comprehensive system for tracking and managing workers, built with Flet, MySQL, and Machine Learning capabilities.
+A comprehensive system for tracking and managing developers, built with Flet, MySQL, and Machine Learning capabilities.
 
 ## Features
 
